@@ -1,3 +1,8 @@
+//this code prints prime number upto input n; and also counts the number of prime numbers upto that n;
+// i am looking to make the runtime  of the code either constant or O(Log n ). 
+// so read its README.md file
+
+
 #include <stdio.h>
 
 int main()
